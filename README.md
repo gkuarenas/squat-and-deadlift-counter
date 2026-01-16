@@ -124,16 +124,6 @@ Uses hand position relative to knees + hip extension requirement:
 
 ---
 
-## Display & UI
-- Video is always displayed in a **fixed 1280×720 window**
-- Video is resized with **letterboxing** (preserves aspect ratio; no stretching)
-- Overlay includes:
-  - **Exercise label** + stage (top-left)
-  - **Reps count** (top-right)
-  - “In-frame” status + gate quality (bottom bar)
-
----
-
 ## Requirements
 Install dependencies:
 
