@@ -9,7 +9,7 @@ A Python script that:
 
 | squat | deadlift | 
 |---|---|---|
-| ![](sample/squat.jpg) | ![](sample/deadlift.jpg) |
+| ![](sample/squat.png) | ![](sample/deadlift.png) |
 
 ---
 
