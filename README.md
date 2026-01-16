@@ -7,6 +7,10 @@ A Python script that:
 - **Counts repetitions** using deterministic, rule-based logic
 - Displays **Rep count on the top-right** of the window
 
+| squat | deadlift | 
+|---|---|---|
+| ![](sample/squat.jpg) | ![](sample/deadlift.jpg) |
+
 ---
 
 ## How it Works
