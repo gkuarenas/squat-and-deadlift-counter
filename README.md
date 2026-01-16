@@ -8,7 +8,7 @@ A Python script that:
 - Displays **Rep count on the top-right** of the window
 
 | squat | deadlift | 
-|---|---|---|
+|---|---|
 | ![](sample/squat.png) | ![](sample/deadlift.png) |
 
 ---
