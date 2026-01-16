@@ -142,4 +142,6 @@ pip install opencv-python mediapipe numpy
 ```
 
 ## How to run:
-- Terminal: python SD-counter.py --video video/**video_file.mp4**
+```
+python SD-counter.py --video video/**video_file.mp4**
+```
